@@ -5,4 +5,9 @@ venv
 .DS_Store
 .ipynb_checkpoints
 
+# Ignore data files
+*.csv
+*.pt
+*.txt
 *.geojson
+*.json
